@@ -1,0 +1,28 @@
+﻿@page
+@model WebPOCF2C.Pages.TemperatureWebModel
+@{
+}
+
+<div>
+    <h1> Temperature Conversion </h1>
+
+    <form name="TemperatureForm" id="TemperatureForm" method="post">
+        Temperature [Celsius]:
+        <br />
+        <input name="TemperatureCelsius"
+               type="number"
+               class="form-control input-lg"
+               autofocus required value="@Model.TemperatureCelsius" />
+        <br />
+
+        Temperature [Farenheit]:
+        <br />
+        <input name="TemperatureFarenheit"
+               type="number"
+               class="form-control input-lg"
+               value="@Model.TemperatureFarenheit" />
+        <br />
+
+        <input id="ConvertButton" type="submit" value="Convert" class="btn btn-info"/>
+    </form>
+</div>
