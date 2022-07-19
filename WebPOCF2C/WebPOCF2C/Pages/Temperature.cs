@@ -40,7 +40,7 @@ namespace WebPOCF2C.Models
 
             TF = ((9.0 / 5.0) * TC) + 32;
 
-            return this.Truncate(TF, 2);
+            return Math.Round(TF, 2);
         }
 
         public double F2C(double TF)
@@ -49,7 +49,7 @@ namespace WebPOCF2C.Models
 
             TC = (TF * 5.0 / 9.0) - 32;
 
-            return this.Truncate(TC, 2);
+            return Math.Round(TC, 2);
         }
 
         // This rounds down

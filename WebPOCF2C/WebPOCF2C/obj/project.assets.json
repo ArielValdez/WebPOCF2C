@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Source\\Repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
       "projectName": "WebPOCF2C",
-      "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
-      "packagesPath": "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\obj\\",
+      "projectPath": "C:\\Users\\chris\\Source\\Repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\Source\\Repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VALDEZ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

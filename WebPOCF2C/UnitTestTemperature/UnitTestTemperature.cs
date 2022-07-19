@@ -42,17 +42,23 @@ namespace UnitTestTemperature
             var temp = new Temperature();
             double number = 15;
 
-            Assert.AreEqual(59, temp.C2F(number));
-        }
+            Assert.AreEqual(59, temp.C2F(number), 0.001, "Method failed on convertion.");
 
-        [TestMethod]
-        public void Truncate_Test()
-        {
-            var temp = new Temperature();
-            double number = 17;
-            var result = temp.C2F(number);
+            number = 10;
 
-            Assert.AreEqual(62.5, temp.Truncate(result, 1));
+            Assert.AreEqual(50, temp.C2F(number), 0.001, "Method failed on convertion.");
+
+            number = 4;
+
+            Assert.AreEqual(39.2, temp.C2F(number), 0.001, "Method failed on convertion.");
+
+            number = 1;
+
+            Assert.AreEqual(33.8, temp.C2F(number), 0.001, "Method failed on convertion.");
+
+            number = -96;
+
+            Assert.AreEqual(-140.8, temp.C2F(number), 0.001, "Method failed on convertion.");
         }
     }
 }

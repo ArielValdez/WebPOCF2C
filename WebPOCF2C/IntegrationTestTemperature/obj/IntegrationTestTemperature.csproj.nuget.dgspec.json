@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj": {}
+    "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj": {
+    "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj",
         "projectName": "IntegrationTestTemperature",
-        "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj",
-        "packagesPath": "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\IntegrationTestTemperature\\obj\\",
+        "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\IntegrationTestTemperature\\IntegrationTestTemperature.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\IntegrationTestTemperature\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VALDEZ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj": {
-                "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj"
+              "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj": {
+                "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj"
               },
-              "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
-                "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj"
+              "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
+                "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj"
               }
             }
           }
@@ -79,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj": {
+    "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj",
         "projectName": "UnitTestTemperature",
-        "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj",
-        "packagesPath": "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\UnitTestTemperature\\obj\\",
+        "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\UnitTestTemperature.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\UnitTestTemperature\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VALDEZ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,8 +107,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
-                "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj"
+              "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
+                "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj"
               }
             }
           }
@@ -155,21 +155,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
+    "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
         "projectName": "WebPOCF2C",
-        "projectPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
-        "packagesPath": "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VALDEZ GAMING\\source\\repos\\WebPOCF2C\\WebPOCF2C\\obj\\",
+        "projectPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris\\source\\repos\\WebPOCF2C\\WebPOCF2C\\WebPOCF2C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VALDEZ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
